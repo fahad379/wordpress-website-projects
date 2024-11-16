@@ -21,3 +21,9 @@ This repository contains **WordPress website templates** that I have personally 
 - Clone the repository to your local machine:
   ```bash
   git clone <repository-URL>
+
+Contact Me
+If you have any questions, or if you'd like to hire me for custom WordPress development or template modifications, feel free to reach out:
+
+Email: muhammadfahadhus@gmail.com
+GitHub Profile: fahad379
