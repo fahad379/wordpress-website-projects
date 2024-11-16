@@ -23,10 +23,10 @@ This repository contains **WordPress website templates** that I have personally 
   git clone <repository-URL>
 
 
-### Changes Made:
+## Contact Me
 
-1. Changed the formatting of the **Contact Me** section to ensure it comes under a heading and is properly aligned.
-2. Added a clear **Contact Me** heading to make it more structured.
+If you have any questions, or if you'd like to hire me for custom WordPress development or template modifications, feel free to reach out:
 
-This should align the contact information properly beneath its heading, keeping everything organized. Let me know if you need further adjustments.
+- **Email**: [muhammadfahadhus@gmail.com](mailto:muhammadfahadhus@gmail.com)
+- **GitHub Profile**: [fahad379](https://github.com/fahad379)
 
