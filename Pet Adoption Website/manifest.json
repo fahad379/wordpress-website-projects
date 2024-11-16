@@ -1,0 +1,1931 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Adopt",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Sponsor a Dog",
+            "screenshot": "screenshots\/sponsor-a-dog.jpg",
+            "source": "templates\/sponsor-a-dog.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/sponsor-a-dog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Report Bad Treatment",
+            "screenshot": "screenshots\/report-bad-treatment.jpg",
+            "source": "templates\/report-bad-treatment.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/report-bad-treatment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pet Profile",
+            "screenshot": "screenshots\/pet-profile.jpg",
+            "source": "templates\/pet-profile.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/pet-profile\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Love Stories",
+            "screenshot": "screenshots\/love-stories.jpg",
+            "source": "templates\/love-stories.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/love-stories\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donate Table 02",
+            "screenshot": "screenshots\/donate-table-02.jpg",
+            "source": "templates\/donate-table-02.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/donate-table-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donate Table 01",
+            "screenshot": "screenshots\/donate-table-01.jpg",
+            "source": "templates\/donate-table-01.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/donate-table-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon 02",
+            "screenshot": "screenshots\/coming-soon-02.jpg",
+            "source": "templates\/coming-soon-02.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/coming-soon-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon 01",
+            "screenshot": "screenshots\/coming-soon-01.jpg",
+            "source": "templates\/coming-soon-01.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/coming-soon-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Carrers",
+            "screenshot": "screenshots\/carrers.jpg",
+            "source": "templates\/carrers.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/carrers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Adopt a Pet",
+            "screenshot": "screenshots\/adopt-a-pet.jpg",
+            "source": "templates\/adopt-a-pet.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/adopt-a-pet\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/adopt\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-section-29-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-29-min-600x338.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                },
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 46025,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adl-abstract-background-v3-4-4X2U3PA"
+        },
+        {
+            "filename": "image-section-08-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-08-min-600x219.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                },
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                },
+                {
+                    "source": "templates\/coming-soon-01.json",
+                    "name": "Coming Soon 01"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5116,
+            "dimensions": [
+                761,
+                278
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-06-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-06-min.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                },
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                },
+                {
+                    "source": "templates\/coming-soon-01.json",
+                    "name": "Coming Soon 01"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7132,
+            "dimensions": [
+                403,
+                404
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-07-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-07-min.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                },
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                },
+                {
+                    "source": "templates\/coming-soon-01.json",
+                    "name": "Coming Soon 01"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12958,
+            "dimensions": [
+                401,
+                401
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-40-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-40-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                }
+            ],
+            "filesize": 65782,
+            "dimensions": [
+                570,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/red-brown-miniature-pinscher-pincher-min-pin-zwerg-PEFXYH8"
+        },
+        {
+            "filename": "image-section-33-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-33-min-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 183378,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-guardian-Z2CT36F"
+        },
+        {
+            "filename": "image-icon-15-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-15-min.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                }
+            ],
+            "filesize": 6704,
+            "dimensions": [
+                284,
+                284
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/music-and-video-icons-A3436K"
+        },
+        {
+            "filename": "image-section-05-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-05-min-600x219.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4764,
+            "dimensions": [
+                761,
+                278
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-03-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-03-min.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7030,
+            "dimensions": [
+                404,
+                404
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-34-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-34-min.png",
+            "templates": [
+                {
+                    "source": "templates\/sponsor-a-dog.json",
+                    "name": "Sponsor a Dog"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 303321,
+            "dimensions": [
+                500,
+                513
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dog-portrait-PZV6Z3T"
+        },
+        {
+            "filename": "image-section-47-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-47-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                }
+            ],
+            "filesize": 142876,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sad-dog-waiting-alone-at-home-PXNCZET"
+        },
+        {
+            "filename": "image-section-48-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-48-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                }
+            ],
+            "filesize": 96706,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sad-dog-9WCVBFJ"
+        },
+        {
+            "filename": "image-section-49-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-49-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                }
+            ],
+            "filesize": 75710,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/sad-dog-PP296AX"
+        },
+        {
+            "filename": "image-section-42-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-42-min-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                }
+            ],
+            "filesize": 121262,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/isolated-maine-coon-cat-specimen-sitting-9TYGB27"
+        },
+        {
+            "filename": "image-section-04-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-04-min.png",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12576,
+            "dimensions": [
+                401,
+                401
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-19-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-19-min-600x338.png",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                },
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                },
+                {
+                    "source": "templates\/coming-soon-01.json",
+                    "name": "Coming Soon 01"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44015,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/adl-abstract-background-v3-4-4X2U3PA"
+        },
+        {
+            "filename": "image-section-32-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-32-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 595849,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cat-PBUS9GM"
+        },
+        {
+            "filename": "image-section-31-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-31-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 478940,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/woman-trying-to-pet-the-dog-Q9D4K9L"
+        },
+        {
+            "filename": "image-section-35-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-35-min-600x467.png",
+            "templates": [
+                {
+                    "source": "templates\/report-bad-treatment.json",
+                    "name": "Report Bad Treatment"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 121118,
+            "dimensions": [
+                643,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/abyssinian-cat-Z93PQQ"
+        },
+        {
+            "filename": "image-section-60-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-60-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 47607,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/friend-of-family-V9T3F7Y"
+        },
+        {
+            "filename": "image-section-51-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-51-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 34596,
+            "dimensions": [
+                3500,
+                3500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-icon-18-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-18-min.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4206,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-pen-and-animal-line-icons-F2AVE4"
+        },
+        {
+            "filename": "image-icon-17-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-17-min.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3223,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-pen-and-animal-line-icons-F2AVE4"
+        },
+        {
+            "filename": "image-icon-19-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-19-min.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3619,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-pen-and-animal-line-icons-F2AVE4"
+        },
+        {
+            "filename": "image-icon-20-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-20-min.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                }
+            ],
+            "filesize": 2757,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/simple-set-pen-and-animal-line-icons-F2AVE4"
+        },
+        {
+            "filename": "image-icon-04-min-1-e1601438742647.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-04-min-1-e1601438742647.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6128,
+            "dimensions": [
+                384,
+                381
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-section-50-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-50-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67598,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-11-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-11-min-600x522.png",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7367,
+            "dimensions": [
+                745,
+                648
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-41-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-41-min-600x821.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pet-profile.json",
+                    "name": "Pet Profile"
+                }
+            ],
+            "filesize": 87203,
+            "dimensions": [
+                800,
+                1095
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hungry-puppy-labrador-retriever-P9YERUC"
+        },
+        {
+            "filename": "image-section-43-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-43-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                }
+            ],
+            "filesize": 410386,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-walking-dog-along-suburban-street-PAEZVU3"
+        },
+        {
+            "filename": "image-section-44-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-44-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                }
+            ],
+            "filesize": 391852,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-walking-dog-along-suburban-street-P2K4QG6"
+        },
+        {
+            "filename": "image-section-45-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-45-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                }
+            ],
+            "filesize": 338956,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-in-a-brown-coat-walks-with-pug-556RW83"
+        },
+        {
+            "filename": "image-section-46-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-46-min-600x1026.jpg",
+            "templates": [
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                }
+            ],
+            "filesize": 481831,
+            "dimensions": [
+                1300,
+                2224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-in-a-brown-coat-walks-with-pug-9VHA8ND"
+        },
+        {
+            "filename": "image-section-20-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-20-min-600x127.jpg",
+            "templates": [
+                {
+                    "source": "templates\/love-stories.json",
+                    "name": "Love Stories"
+                }
+            ],
+            "filesize": 119945,
+            "dimensions": [
+                1920,
+                407
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/differents-dogs-looking-at-camera-isolated-on-a-wh-ANVG8BY"
+        },
+        {
+            "filename": "image-icon-03-min-1-e1601438776746.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-03-min-1-e1601438776746.png",
+            "templates": [
+                {
+                    "source": "templates\/donate-table-02.json",
+                    "name": "Donate Table 02"
+                },
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6062,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-section-12-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-12-min-600x400.png",
+            "templates": [
+                {
+                    "source": "templates\/donate-table-01.json",
+                    "name": "Donate Table 01"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21878,
+            "dimensions": [
+                1359,
+                907
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-10-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-10-min-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 141195,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pet-G5RX3BV"
+        },
+        {
+            "filename": "image-section-23-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-23-min-600x593.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon-02.json",
+                    "name": "Coming Soon 02"
+                }
+            ],
+            "filesize": 262410,
+            "dimensions": [
+                800,
+                791
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-cockapoo-mixed-breed-dog-a-cocker-spaniel-poodle-ENVM7AC"
+        },
+        {
+            "filename": "image-section-30-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-30-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 524153,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dog-on-a-terrace-PCYXTJB"
+        },
+        {
+            "filename": "image-icon-08-min-e1601438557336.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-08-min-e1601438557336.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5031,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-icon-13-min-e1601438365206.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-13-min-e1601438365206.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3939,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-icon-14-min-e1601439004855.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-14-min-e1601439004855.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4574,
+            "dimensions": [
+                383,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-icon-01-min-1-e1601438920807.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-01-min-1-e1601438920807.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2629,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-icon-02-min-1-e1601438812150.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-02-min-1-e1601438812150.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5265,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-icon-07-min-e1601438597892.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-07-min-e1601438597892.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5375,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-section-22-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-section-22-min-600x593.png",
+            "templates": [
+                {
+                    "source": "templates\/carrers.json",
+                    "name": "Carrers"
+                }
+            ],
+            "filesize": 196686,
+            "dimensions": [
+                800,
+                791
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-dog-PNG4KXA"
+        },
+        {
+            "filename": "image-section-61-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-61-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 45424,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/red-brown-miniature-pinscher-pincher-min-pin-zwerg-PEFXYH8"
+        },
+        {
+            "filename": "image-section-56-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-56-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31023,
+            "dimensions": [
+                3500,
+                3500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-59-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-59-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 68143,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/rabbit-animal-in-man-hands-CXN94EE"
+        },
+        {
+            "filename": "image-section-55-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-55-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31007,
+            "dimensions": [
+                3500,
+                3500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-57-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-57-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 61604,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-puppy-english-bulldog-P2JLUZW"
+        },
+        {
+            "filename": "image-section-64-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-64-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 68445,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/street-cat-sitting-at-outdoor-76ZZPXS"
+        },
+        {
+            "filename": "image-section-58-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-58-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 48314,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-cockapoo-mixed-breed-dog-a-cocker-spaniel-poodle-ENVM7AC"
+        },
+        {
+            "filename": "image-section-63-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-63-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41615,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-dog-PNG4KXA"
+        },
+        {
+            "filename": "image-section-62-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-62-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/adopt-a-pet.json",
+                    "name": "Adopt a Pet"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 51020,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cat-comfortably-settled-on-bed-PY5XCB6"
+        },
+        {
+            "filename": "image-section-38-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-38-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 107353,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/street-cat-sitting-at-outdoor-76ZZPXS"
+        },
+        {
+            "filename": "image-section-37-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-37-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 102895,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-black-shar-pei-dog-over-grey-background-KTFQR29"
+        },
+        {
+            "filename": "image-section-36-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-section-36-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 68641,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/friend-of-family-V9T3F7Y"
+        },
+        {
+            "filename": "image-icon-16-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/09\/image-icon-16-min.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3373,
+            "dimensions": [
+                251,
+                251
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-social-media-icons-G6RA8Q"
+        },
+        {
+            "filename": "image-section-52-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-52-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90443,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dog-in-shelter-P7DSEYL"
+        },
+        {
+            "filename": "image-icon-06-min-1-e1601438318101.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-06-min-1-e1601438318101.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2556,
+            "dimensions": [
+                382,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-section-65-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-65-min-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 174298,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-girl-with-dog-on-suburban-street-PVU3NEC"
+        },
+        {
+            "filename": "image-section-54-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-54-min-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 33599,
+            "dimensions": [
+                3500,
+                3500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-icon-12-min-e1601438404723.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/image-icon-12-min-e1601438404723.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3652,
+            "dimensions": [
+                384,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/20-veterinary-icons-solid-8HL3TFJ"
+        },
+        {
+            "filename": "image-section-67-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-67-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20185,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-diverse-coworkers-standing-in-an--FHLU8GR"
+        },
+        {
+            "filename": "image-section-68-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-68-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19724,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-diverse-coworkers-standing-in-an--FHLU8GR"
+        },
+        {
+            "filename": "image-section-66-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/10\/image-section-66-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21395,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-diverse-coworkers-standing-in-an--FHLU8GR"
+        },
+        {
+            "filename": "logo-adopt-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/adopt\/wp-content\/uploads\/sites\/73\/2020\/06\/logo-adopt-01-min.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4241,
+            "dimensions": [
+                332,
+                127
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pet-health-medical-and-health-logo-LN93TKC"
+        }
+    ]
+}
