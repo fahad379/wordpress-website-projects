@@ -1,0 +1,1103 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "BLOGGA - Instagram Blogger Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Landing 1",
+            "screenshot": "screenshots\/landing-1.png",
+            "source": "templates\/landing-1.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/landing1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Landing 2",
+            "screenshot": "screenshots\/landing-2.png",
+            "source": "templates\/landing-2.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/landing2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Guide",
+            "screenshot": "screenshots\/guide.png",
+            "source": "templates\/guide.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Section",
+            "screenshot": "screenshots\/header-section.jpg",
+            "source": "templates\/header-section.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Section",
+            "screenshot": "screenshots\/footer-section.jpg",
+            "source": "templates\/footer-section.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Give Away",
+            "screenshot": "screenshots\/give-away.png",
+            "source": "templates\/give-away.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/give-away\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Manager Job",
+            "screenshot": "screenshots\/manager-job.png",
+            "source": "templates\/manager-job.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/manager-job\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Order",
+            "screenshot": "screenshots\/order.png",
+            "source": "templates\/order.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/order\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Checklist",
+            "screenshot": "screenshots\/checklist.png",
+            "source": "templates\/checklist.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/checklist\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Designer Job",
+            "screenshot": "screenshots\/designer-job.png",
+            "source": "templates\/designer-job.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/designer-job\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Marathon",
+            "screenshot": "screenshots\/marathon.png",
+            "source": "templates\/marathon.json",
+            "preview_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/template-kit\/marathon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.2.4",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "beauty-fashion-model-girl-with-colorful-dyed-hair-PGDNE2Z-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/beauty-fashion-model-girl-with-colorful-dyed-hair-PGDNE2Z-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                }
+            ],
+            "filesize": 634391,
+            "dimensions": [
+                2560,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-fashion-model-girl-with-colorful-dyed-hair-PGDNE2Z"
+        },
+        {
+            "filename": "young-woman-with-dark-long-hair-and-perfect-makeup-ARAVFDA-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/young-woman-with-dark-long-hair-and-perfect-makeup-ARAVFDA-600x899.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 328915,
+            "dimensions": [
+                1709,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-with-dark-long-hair-and-perfect-makeup-ARAVFDA"
+        },
+        {
+            "filename": "closeup-purple-lavender-field-GE63P79-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/closeup-purple-lavender-field-GE63P79-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 441189,
+            "dimensions": [
+                2560,
+                1709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-purple-lavender-field-GE63P79"
+        },
+        {
+            "filename": "young-lady-with-dark-hair-in-denim-shorts-and-pink-9J2R4AY-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/young-lady-with-dark-hair-in-denim-shorts-and-pink-9J2R4AY-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 285409,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-lady-with-dark-hair-in-denim-shorts-and-pink-9J2R4AY"
+        },
+        {
+            "filename": "portrait-of-cheerful-carefree-smiling-korean-girl-UFKNFJP-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/portrait-of-cheerful-carefree-smiling-korean-girl-UFKNFJP-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 354627,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-carefree-smiling-korean-girl--UFKNFJP"
+        },
+        {
+            "filename": "hand-SSJLN73-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/hand-SSJLN73-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 219859,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hand-SSJLN73"
+        },
+        {
+            "filename": "modern-online-shopaholic-happy-woman-unpacked-parc-YEDNLQY-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/modern-online-shopaholic-happy-woman-unpacked-parc-YEDNLQY-600x410.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 317199,
+            "dimensions": [
+                2560,
+                1750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-online-shopaholic-happy-woman-unpacked-parc-YEDNLQY"
+        },
+        {
+            "filename": "girl2.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/girl2.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 43200,
+            "dimensions": [
+                430,
+                525
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "book.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/book.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 12157,
+            "dimensions": [
+                425,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "camera.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/camera.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 32445,
+            "dimensions": [
+                495,
+                435
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "badge.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/badge.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 20309,
+            "dimensions": [
+                360,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "man1.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/man1.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 34915,
+            "dimensions": [
+                425,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "diamond.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/diamond.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 29028,
+            "dimensions": [
+                495,
+                460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ui-icons-bundle-1-A6C357"
+        },
+        {
+            "filename": "brown-haired-woman-with-long-smooth-hair-EWRGMCL-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/brown-haired-woman-with-long-smooth-hair-EWRGMCL-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                },
+                {
+                    "source": "templates\/order.json",
+                    "name": "Order"
+                }
+            ],
+            "filesize": 505857,
+            "dimensions": [
+                2560,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brown-haired-woman-with-long-smooth-hair-EWRGMCL"
+        },
+        {
+            "filename": "blonde-young-woman-in-floral-spring-summer-dress-CZQUQPR-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/blonde-young-woman-in-floral-spring-summer-dress-CZQUQPR-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/order.json",
+                    "name": "Order"
+                }
+            ],
+            "filesize": 284621,
+            "dimensions": [
+                2560,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/blonde-young-woman-in-floral-spring-summer-dress-CZQUQPR"
+        },
+        {
+            "filename": "valentine-17.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-17-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/order.json",
+                    "name": "Order"
+                }
+            ],
+            "filesize": 64390,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "valentine-09.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-09-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                },
+                {
+                    "source": "templates\/checklist.json",
+                    "name": "Checklist"
+                },
+                {
+                    "source": "templates\/marathon.json",
+                    "name": "Marathon"
+                }
+            ],
+            "filesize": 40774,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "portrait-beautiful-woman-with-jewelry-QD79AH2-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/portrait-beautiful-woman-with-jewelry-QD79AH2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 535026,
+            "dimensions": [
+                2560,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-beautiful-woman-with-jewelry-QD79AH2"
+        },
+        {
+            "filename": "portrait-of-cute-african-american-girl-smiling-to-4EX7AR8-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/portrait-of-cute-african-american-girl-smiling-to-4EX7AR8-600x366.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 214882,
+            "dimensions": [
+                2560,
+                1560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cute-african-american-girl-smiling-to--4EX7AR8"
+        },
+        {
+            "filename": "fashion-portrait-of-beautiful-woman-in-elegant-dre-PHRW7MN-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/fashion-portrait-of-beautiful-woman-in-elegant-dre-PHRW7MN-600x431.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 283264,
+            "dimensions": [
+                2560,
+                1840
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-portrait-of-beautiful-woman-in-elegant-dre-PHRW7MN"
+        },
+        {
+            "filename": "handsome-man-smiling-7YAW296-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/handsome-man-smiling-7YAW296-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 381235,
+            "dimensions": [
+                2560,
+                1709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-smiling-7YAW296"
+        },
+        {
+            "filename": "beautiful-young-woman-in-headphones-listening-to-m-HYJTFP2-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/beautiful-young-woman-in-headphones-listening-to-m-HYJTFP2-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-1.json",
+                    "name": "Landing 1"
+                },
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/designer-job.json",
+                    "name": "Designer Job"
+                }
+            ],
+            "filesize": 403346,
+            "dimensions": [
+                2560,
+                1922
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-woman-in-headphones-listening-to-m-HYJTFP2"
+        },
+        {
+            "filename": "pretty-girl-smiling-listening-music-in-earphones-h-V2BLP8X-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/pretty-girl-smiling-listening-music-in-earphones-h-V2BLP8X-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/landing-2.json",
+                    "name": "Landing 2"
+                }
+            ],
+            "filesize": 220345,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-girl-smiling-listening-music-in-earphones-h-V2BLP8X"
+        },
+        {
+            "filename": "young-woman-using-her-mobile-phone-THWYXJW-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/young-woman-using-her-mobile-phone-THWYXJW-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/guide.json",
+                    "name": "Guide"
+                }
+            ],
+            "filesize": 222880,
+            "dimensions": [
+                2560,
+                1708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-using-her-mobile-phone-THWYXJW"
+        },
+        {
+            "filename": "InsignificonSC64-Telegram.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/InsignificonSC64-Telegram.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                },
+                {
+                    "source": "templates\/marathon.json",
+                    "name": "Marathon"
+                }
+            ],
+            "filesize": 2744,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insignificon-social-KBHR3U"
+        },
+        {
+            "filename": "InsignificonSC64-WhatsApp.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/InsignificonSC64-WhatsApp.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 3038,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insignificon-social-KBHR3U"
+        },
+        {
+            "filename": "InsignificonSC64-Instagram-New.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/InsignificonSC64-Instagram-New.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                },
+                {
+                    "source": "templates\/marathon.json",
+                    "name": "Marathon"
+                }
+            ],
+            "filesize": 2349,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insignificon-social-KBHR3U"
+        },
+        {
+            "filename": "pexels-jess-harper-sunday-2897035-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/pexels-jess-harper-sunday-2897035-600x428.jpg",
+            "templates": [
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 467700,
+            "dimensions": [
+                2560,
+                1826
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/rose-gold-iphone-7-plus-beside-pencils-on-book-2897035\/"
+        },
+        {
+            "filename": "pexels-cottonbro-3927232-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/pexels-cottonbro-3927232-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 256332,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/person-holding-a-pink-ribbon-3927232\/"
+        },
+        {
+            "filename": "valentine-10.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-10-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/give-away.json",
+                    "name": "Give Away"
+                }
+            ],
+            "filesize": 54502,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "Store-Seller.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/Store-Seller.jpg",
+            "templates": [
+                {
+                    "source": "templates\/manager-job.json",
+                    "name": "Manager Job"
+                }
+            ],
+            "filesize": 98232,
+            "dimensions": [
+                570,
+                411
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-commerce-vector-illustration-store-seller-BD9RVGT"
+        },
+        {
+            "filename": "valentine-01.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-01-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/manager-job.json",
+                    "name": "Manager Job"
+                }
+            ],
+            "filesize": 45893,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "group-of-friends-having-fun-together-6DH428Q-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/group-of-friends-having-fun-together-6DH428Q-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/manager-job.json",
+                    "name": "Manager Job"
+                }
+            ],
+            "filesize": 494627,
+            "dimensions": [
+                2560,
+                1708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-friends-having-fun-together-6DH428Q"
+        },
+        {
+            "filename": "pexels-maksim-goncharenok-4352151-1.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/pexels-maksim-goncharenok-4352151-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/order.json",
+                    "name": "Order"
+                }
+            ],
+            "filesize": 175563,
+            "dimensions": [
+                480,
+                640
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/man-and-woman-holding-hands-and-running-on-a-field-4352151\/"
+        },
+        {
+            "filename": "fashion-portrait-of-beautiful-young-woman-in-a-sum-PJNM9RH-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/fashion-portrait-of-beautiful-young-woman-in-a-sum-PJNM9RH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/order.json",
+                    "name": "Order"
+                },
+                {
+                    "source": "templates\/designer-job.json",
+                    "name": "Designer Job"
+                }
+            ],
+            "filesize": 637886,
+            "dimensions": [
+                2560,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-portrait-of-beautiful-young-woman-in-a-sum-PJNM9RH"
+        },
+        {
+            "filename": "happy-young-woman-chatting-by-mobile-phone-QHHJHVZ-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/happy-young-woman-chatting-by-mobile-phone-QHHJHVZ-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/checklist.json",
+                    "name": "Checklist"
+                }
+            ],
+            "filesize": 227045,
+            "dimensions": [
+                2560,
+                1708
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-woman-chatting-by-mobile-phone-QHHJHVZ"
+        },
+        {
+            "filename": "valentine-19.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-19-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/checklist.json",
+                    "name": "Checklist"
+                }
+            ],
+            "filesize": 51687,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "valentine-06.png",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/valentine-06-600x600.png",
+            "templates": [
+                {
+                    "source": "templates\/designer-job.json",
+                    "name": "Designer Job"
+                }
+            ],
+            "filesize": 52686,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/valentine-icon-28DU8JC"
+        },
+        {
+            "filename": "sexy-sports-girl-standing-in-a-tracksuit-with-a-pu-VSJUB9R-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/sexy-sports-girl-standing-in-a-tracksuit-with-a-pu-VSJUB9R-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/marathon.json",
+                    "name": "Marathon"
+                }
+            ],
+            "filesize": 383583,
+            "dimensions": [
+                1707,
+                2560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sexy-sports-girl-standing-in-a-tracksuit-with-a-pu-VSJUB9R"
+        },
+        {
+            "filename": "the-young-beautiful-sports-girl-doing-exercises-on-P8MU8UB-scaled.jpg",
+            "thumbnail_url": "http:\/\/roythemes.com\/demo\/tk\/insta\/wp-content\/uploads\/2020\/08\/the-young-beautiful-sports-girl-doing-exercises-on-P8MU8UB-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/marathon.json",
+                    "name": "Marathon"
+                }
+            ],
+            "filesize": 328456,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-young-beautiful-sports-girl-doing-exercises-on-P8MU8UB"
+        }
+    ]
+}
